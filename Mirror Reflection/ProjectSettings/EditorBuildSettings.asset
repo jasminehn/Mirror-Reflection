@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menus/Menu.unity
+    guid: ef0e2d7f3db421a4bb09235c11b23bc9
+  - enabled: 1
+    path: Assets/Levels/IntroToMovement.unity
+    guid: e1632a59240adb84fa6b7d6525017cba
+  - enabled: 1
+    path: Assets/Levels/IntroToOffset.unity
+    guid: c195b16c85db683479178001ac688ccd
+  - enabled: 1
+    path: Assets/Levels/Level2.unity
+    guid: 496457dee2e4e4ce4aed2963b4579015
+  - enabled: 1
+    path: Assets/Levels/Level4.unity
+    guid: eb6bf0605ccb54b309aa7df5780ea70c
+  - enabled: 1
+    path: Assets/Levels/TheLoop.unity
+    guid: 681566940ba975c41a4d4307b6739e04
+  - enabled: 1
+    path: Assets/Levels/Level5.unity
+    guid: 975440190e1e54ba69d7d305d295d19a
+  - enabled: 1
+    path: Assets/Levels/Level6.unity
+    guid: 0bf58bb83cc86e44fad602e4962253df
+  - enabled: 1
+    path: Assets/Levels/Level3.unity
+    guid: 0a73060deee284492b4d7b80d3b24db3
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: 478b7c36bde844cb39fd1ee495c55c87
+  - enabled: 1
+    path: Assets/Levels/Level7.unity
+    guid: 3545c82e2f1a7a945b66e8c8b712f474
+  - enabled: 1
+    path: Assets/Menus/EndScene.unity
+    guid: 25b4064f632d148f1a9f150423fb68ee
+  m_configObjects: {}
